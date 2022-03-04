@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Deep</folder>
+	<filename>circa-february-1-2016-dji-260nw-370639601.jpg</filename>
+	<path>D:\Deeick\Drone-Detection-System\Deep\circa-february-1-2016-dji-260nw-370639601.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>398</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>69</ymin>
+			<xmax>311</xmax>
+			<ymax>169</ymax>
+		</bndbox>
+	</object>
+</annotation>

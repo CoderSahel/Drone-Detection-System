@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Deep</folder>
+	<filename>chonburi-thailand-10-march-2017-260nw-610395056.jpg</filename>
+	<path>D:\Deeick\Drone-Detection-System\Deep\chonburi-thailand-10-march-2017-260nw-610395056.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>110</ymin>
+			<xmax>267</xmax>
+			<ymax>166</ymax>
+		</bndbox>
+	</object>
+</annotation>

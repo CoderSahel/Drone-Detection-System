@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Deep</folder>
+	<filename>chonburithailand-august-12-2017-dji-260nw-698814820.jpg</filename>
+	<path>D:\Deeick\Drone-Detection-System\Deep\chonburithailand-august-12-2017-dji-260nw-698814820.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>109</ymin>
+			<xmax>340</xmax>
+			<ymax>150</ymax>
+		</bndbox>
+	</object>
+</annotation>
