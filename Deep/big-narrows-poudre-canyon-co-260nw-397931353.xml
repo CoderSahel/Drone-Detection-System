@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Deep</folder>
+	<filename>big-narrows-poudre-canyon-co-260nw-397931353.jpg</filename>
+	<path>D:\Deeick\Drone-Detection-System\Deep\big-narrows-poudre-canyon-co-260nw-397931353.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>183</xmin>
+			<ymin>88</ymin>
+			<xmax>327</xmax>
+			<ymax>161</ymax>
+		</bndbox>
+	</object>
+</annotation>

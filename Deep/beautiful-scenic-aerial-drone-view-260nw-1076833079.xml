@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Deep</folder>
+	<filename>beautiful-scenic-aerial-drone-view-260nw-1076833079.jpg</filename>
+	<path>D:\Deeick\Drone-Detection-System\Deep\beautiful-scenic-aerial-drone-view-260nw-1076833079.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>347</width>
+		<height>280</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>159</ymin>
+			<xmax>150</xmax>
+			<ymax>207</ymax>
+		</bndbox>
+	</object>
+</annotation>

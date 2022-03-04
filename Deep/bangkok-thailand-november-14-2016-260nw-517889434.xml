@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Deep</folder>
+	<filename>bangkok-thailand-november-14-2016-260nw-517889434.jpg</filename>
+	<path>D:\Deeick\Drone-Detection-System\Deep\bangkok-thailand-november-14-2016-260nw-517889434.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>39</ymin>
+			<xmax>360</xmax>
+			<ymax>249</ymax>
+		</bndbox>
+	</object>
+</annotation>
