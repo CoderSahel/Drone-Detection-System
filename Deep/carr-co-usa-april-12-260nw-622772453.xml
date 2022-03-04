@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Deep</folder>
+	<filename>carr-co-usa-april-12-260nw-622772453.jpg</filename>
+	<path>D:\Deeick\Drone-Detection-System\Deep\carr-co-usa-april-12-260nw-622772453.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>208</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>55</ymin>
+			<xmax>186</xmax>
+			<ymax>170</ymax>
+		</bndbox>
+	</object>
+</annotation>

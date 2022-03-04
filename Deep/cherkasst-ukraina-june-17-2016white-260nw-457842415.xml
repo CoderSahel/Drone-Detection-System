@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Deep</folder>
+	<filename>cherkasst-ukraina-june-17-2016white-260nw-457842415.jpg</filename>
+	<path>D:\Deeick\Drone-Detection-System\Deep\cherkasst-ukraina-june-17-2016white-260nw-457842415.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>389</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>17</ymin>
+			<xmax>347</xmax>
+			<ymax>188</ymax>
+		</bndbox>
+	</object>
+</annotation>
