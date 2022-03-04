@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Deep</folder>
-	<filename>bangkok-thailand-november-14-2016-260nw-515226520.jpg</filename>
-	<path>D:\Deeick\Drone-Detection-System\Deep\bangkok-thailand-november-14-2016-260nw-515226520.jpg</path>
+	<filename>berlin-germany-june-06-2017-260nw-682553650.jpg</filename>
+	<path>D:\Deeick\Drone-Detection-System\Deep\berlin-germany-june-06-2017-260nw-682553650.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -14,13 +14,13 @@
 	<object>
 		<name>drone</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>80</xmin>
-			<ymin>42</ymin>
-			<xmax>337</xmax>
-			<ymax>202</ymax>
+			<xmin>1</xmin>
+			<ymin>52</ymin>
+			<xmax>381</xmax>
+			<ymax>225</ymax>
 		</bndbox>
 	</object>
 </annotation>

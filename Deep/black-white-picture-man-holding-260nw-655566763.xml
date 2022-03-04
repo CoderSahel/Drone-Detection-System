@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Deep</folder>
+	<filename>black-white-picture-man-holding-260nw-655566763.jpg</filename>
+	<path>D:\Deeick\Drone-Detection-System\Deep\black-white-picture-man-holding-260nw-655566763.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>294</width>
+		<height>280</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drone</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>1</ymin>
+			<xmax>294</xmax>
+			<ymax>260</ymax>
+		</bndbox>
+	</object>
+</annotation>
