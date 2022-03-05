@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Deep</folder>
+	<filename>dji-drone-air-260nw-604114163.jpg</filename>
+	<path>D:\Deeick\Drone-Detection-System\Deep\dji-drone-air-260nw-604114163.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>462</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>29</ymin>
+			<xmax>390</xmax>
+			<ymax>230</ymax>
+		</bndbox>
+	</object>
+</annotation>
