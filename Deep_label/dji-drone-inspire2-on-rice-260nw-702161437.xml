@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Deep</folder>
+	<filename>dji-drone-inspire2-on-rice-260nw-702161437.jpg</filename>
+	<path>D:\Deeick\Drone-Detection-System\Deep\dji-drone-inspire2-on-rice-260nw-702161437.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>497</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>282</xmin>
+			<ymin>52</ymin>
+			<xmax>410</xmax>
+			<ymax>127</ymax>
+		</bndbox>
+	</object>
+</annotation>
