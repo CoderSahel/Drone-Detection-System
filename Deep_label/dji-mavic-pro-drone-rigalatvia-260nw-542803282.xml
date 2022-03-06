@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Deep</folder>
+	<filename>dji-mavic-pro-drone-rigalatvia-260nw-542803282.jpg</filename>
+	<path>D:\Deeick\Drone-Detection-System\Deep\dji-mavic-pro-drone-rigalatvia-260nw-542803282.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>406</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>67</ymin>
+			<xmax>402</xmax>
+			<ymax>193</ymax>
+		</bndbox>
+	</object>
+</annotation>
