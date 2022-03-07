@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ahan</folder>
+	<filename>03012017-dji-phantom-flying-sky-260nw-555436894.jpg</filename>
+	<path>C:\droneproject\Drone-Detection-System\Ahan\03012017-dji-phantom-flying-sky-260nw-555436894.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>43</ymin>
+			<xmax>296</xmax>
+			<ymax>200</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ahan</folder>
+	<filename>almere-netherlands-september-29-2017-260nw-724434277.jpg</filename>
+	<path>C:\droneproject\Drone-Detection-System\Ahan\almere-netherlands-september-29-2017-260nw-724434277.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>352</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>12</ymin>
+			<xmax>280</xmax>
+			<ymax>185</ymax>
+		</bndbox>
+	</object>
+</annotation>

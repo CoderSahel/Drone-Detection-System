@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ahan</folder>
+	<filename>23-december-2016-phantom-4-260nw-543088960.jpg</filename>
+	<path>C:\droneproject\Drone-Detection-System\Ahan\23-december-2016-phantom-4-260nw-543088960.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>133</xmin>
+			<ymin>82</ymin>
+			<xmax>274</xmax>
+			<ymax>169</ymax>
+		</bndbox>
+	</object>
+</annotation>
