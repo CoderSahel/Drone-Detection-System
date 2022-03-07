@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ahan</folder>
+	<filename>25-may-2018-lviv-ukraine-260nw-1109034167.jpg</filename>
+	<path>C:\droneproject\Drone-Detection-System\Ahan\25-may-2018-lviv-ukraine-260nw-1109034167.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>181</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>45</ymin>
+			<xmax>180</xmax>
+			<ymax>96</ymax>
+		</bndbox>
+	</object>
+</annotation>

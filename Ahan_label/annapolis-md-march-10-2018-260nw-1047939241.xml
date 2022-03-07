@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ahan</folder>
+	<filename>annapolis-md-march-10-2018-260nw-1047939241.jpg</filename>
+	<path>C:\droneproject\Drone-Detection-System\Ahan\annapolis-md-march-10-2018-260nw-1047939241.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>73</xmin>
+			<ymin>38</ymin>
+			<xmax>183</xmax>
+			<ymax>112</ymax>
+		</bndbox>
+	</object>
+</annotation>

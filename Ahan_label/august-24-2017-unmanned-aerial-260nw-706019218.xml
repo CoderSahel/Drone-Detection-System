@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ahan</folder>
+	<filename>august-24-2017-unmanned-aerial-260nw-706019218.jpg</filename>
+	<path>C:\droneproject\Drone-Detection-System\Ahan\august-24-2017-unmanned-aerial-260nw-706019218.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>191</xmin>
+			<ymin>139</ymin>
+			<xmax>329</xmax>
+			<ymax>211</ymax>
+		</bndbox>
+	</object>
+</annotation>

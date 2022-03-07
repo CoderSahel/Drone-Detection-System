@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ahan</folder>
+	<filename>bangkok-thailand-14-march-2018-260nw-1067035430.jpg</filename>
+	<path>C:\droneproject\Drone-Detection-System\Ahan\bangkok-thailand-14-march-2018-260nw-1067035430.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>389</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>42</ymin>
+			<xmax>374</xmax>
+			<ymax>209</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ahan</folder>
+	<filename>august-24-2017-labuan-malaysia-260nw-703211650.jpg</filename>
+	<path>C:\droneproject\Drone-Detection-System\Ahan\august-24-2017-labuan-malaysia-260nw-703211650.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>462</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>172</xmin>
+			<ymin>117</ymin>
+			<xmax>284</xmax>
+			<ymax>190</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ahan</folder>
+	<filename>athens-greece-december-20-2014-260nw-246192937.jpg</filename>
+	<path>C:\droneproject\Drone-Detection-System\Ahan\athens-greece-december-20-2014-260nw-246192937.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>57</ymin>
+			<xmax>279</xmax>
+			<ymax>185</ymax>
+		</bndbox>
+	</object>
+</annotation>
