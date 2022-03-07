@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Rishav</folder>
+	<filename>kiev-ukraine-october-29-2016-260nw-506345803.jpg</filename>
+	<path>D:\New folder\Drone-Detection-System\Rishav\kiev-ukraine-october-29-2016-260nw-506345803.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>391</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Drone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>78</xmin>
+			<ymin>85</ymin>
+			<xmax>276</xmax>
+			<ymax>187</ymax>
+		</bndbox>
+	</object>
+</annotation>
