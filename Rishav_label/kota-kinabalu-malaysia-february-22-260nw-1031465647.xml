@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Rishav</folder>
+	<filename>kota-kinabalu-malaysia-february-22-260nw-1031465647.jpg</filename>
+	<path>D:\New folder\Drone-Detection-System\Rishav\kota-kinabalu-malaysia-february-22-260nw-1031465647.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>347</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Drone</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>1</ymin>
+			<xmax>347</xmax>
+			<ymax>164</ymax>
+		</bndbox>
+	</object>
+</annotation>
