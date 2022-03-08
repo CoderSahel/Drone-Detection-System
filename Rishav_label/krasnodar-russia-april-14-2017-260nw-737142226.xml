@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Rishav</folder>
+	<filename>krasnodar-russia-april-14-2017-260nw-737142226.jpg</filename>
+	<path>D:\New folder\Drone-Detection-System\Rishav\krasnodar-russia-april-14-2017-260nw-737142226.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>392</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Drone</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>126</ymin>
+			<xmax>392</xmax>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+</annotation>

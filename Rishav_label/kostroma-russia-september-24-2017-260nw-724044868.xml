@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Rishav</folder>
+	<filename>kostroma-russia-september-24-2017-260nw-724044868.jpg</filename>
+	<path>D:\New folder\Drone-Detection-System\Rishav\kostroma-russia-september-24-2017-260nw-724044868.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Drone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>121</xmin>
+			<ymin>65</ymin>
+			<xmax>259</xmax>
+			<ymax>184</ymax>
+		</bndbox>
+	</object>
+</annotation>
